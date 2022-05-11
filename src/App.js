@@ -24,14 +24,14 @@ export default function App() {
       <header id="store">
         <h1>Greengrocers</h1>
         <ul className="item-list store--item-list">
-          {/* Wrtite some code here... */}
+          {/* Write some code here... */}
         </ul>
       </header>
       <main id="cart">
         <h2>Your Cart</h2>
         <div className="cart--item-list-container">
           <ul className="item-list cart--item-list">
-            {/* Wrtite some code here... */}
+            {/* Write some code here... */}
           </ul>
         </div>
         <div className="total-section">
